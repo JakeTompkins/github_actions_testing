@@ -1,0 +1,6 @@
+tests:
+  - tests/**/*.test.ts
+backend:
+  - src/backend/**/*.ts
+frontend:
+  - src/frontend/**/*.ts
